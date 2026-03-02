@@ -1,7 +1,7 @@
 ---
 title: "Research Facilitation for DRI communities"
 
-lead: ""
+lead: "Weronika Filinger"
 lead_photos:
   - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
 lead_links: ""
