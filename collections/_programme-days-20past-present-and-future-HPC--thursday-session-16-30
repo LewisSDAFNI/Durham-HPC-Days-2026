@@ -27,5 +27,6 @@ end_time_1: "14:30"
 room: "Mountjoy Centre"
 layout: talk
 category: "talk"
-description: ""
+description: "This is a joint session organised by the HPC SIG and the HPC RSE SIG.
+We will look back on how past technologies have shaped the sector and the dRTP roles, review current development and challenges, and think about where these developments - in particular the AI boom and recently appointed national supercomputers and resources - will lead the computational research community in the coming years. The intended audience is Research Technical Professionals, computational scientists and anyone interested in the wider field of HPC services."
 ---
