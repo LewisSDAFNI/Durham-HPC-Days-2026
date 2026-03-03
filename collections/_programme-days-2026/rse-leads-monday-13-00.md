@@ -33,7 +33,7 @@ contributor_photos:
   - ""
 # Contributors' profile links (must match order of names above)
 contributor_links:
-  - "" ""
+  - ""
 
 
 
