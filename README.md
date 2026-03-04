@@ -1,10 +1,10 @@
-# SHAREing project site
+# HPC Days project site
 
-The SHAREing project site is a static site, generated from Markdown source by Jekyll (an application in Ruby) and hosted on GitHub Pages. It is available at https://SHAREing-DRI.github.io.
+The HPC DAYS  site is a static site, generated from Markdown source by Jekyll (an application in Ruby) and hosted on GitHub Pages.
 
 ## Table of Contents
 
-- [SHAREing project site](#shareing-project-site)
+- [HPC DAYS  site](#HPC-Days-project-site)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
