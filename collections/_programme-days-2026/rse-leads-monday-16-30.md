@@ -10,17 +10,25 @@
 # SCHEDULING INFORMATION - COMPLETE INFORMATION
 
 # Full TITLE of the session/tutorial
-title: "RSE leads"
+title: "RSE Leaders & Aspiring Leaders Meeting"
 
 #LEADS
 # Comma-separated list of the leads of the session
-lead: "Samantha Finnigan"
-# Leads photos (must match order of names above). 
+lead: "Samantha Finnigan, Marion Weinzierl, Elena Breitmoser, Michael Donnay, Twin Karmakharm"
+# Leads photos (must match order of names above).
 lead_photos:
-  - "assets/images/generic.jpg"
+  - "assets/images/rse-leaders/samantha-finnigan.jpg"
+  - "assets/images/rse-leaders/marion-weinzierl.jpg"
+  - "assets/images/rse-leaders/elena-breitmoser.jpg"
+  - "assets/images/rse-leaders/michael-donnay.jpg"
+  - "assets/images/rse-leaders/twin-karmakharm.jpg"
 # Leads profile links (must match order of names above)
 lead_links:
-  - ""
+  - "https://www.durham.ac.uk/staff/samantha-finnigan/"
+  - "https://iccs.cam.ac.uk/about-us/our-team/about-marion-weinzierl"
+  - "https://www.epcc.ed.ac.uk/about-us/our-team/dr-elena-breitmoser"
+  - "https://www.southampton.ac.uk/people/66cq5l/mr-michael-donnay"
+  - "https://rse.shef.ac.uk/contact/twin-karmakharm/"
 
 
 #CONTRIBUTORS
@@ -74,11 +82,11 @@ institution_link: ""
 
 # ORGANISER
 # Comma-separated list of organisers
-organiser: ""
+organiser: "RSE Leaders Network SIG, Durham University Advanced Research Computing, SocRSE Policy & Funding Working Group"
 # Organisers logo
-organiser_logo: ""
+organiser_logo: "assets/images/rse-leaders/rse-society.png"
 # Organisers website link
-organiser_link: ""
+organiser_link: "https://lu.ma/0w6u5u47"
 
 
 # SUPPORTED
@@ -98,7 +106,7 @@ supported_link: ""
 # DESCRIPTION
 
 # Full session description (please use <br> to add a new paragraph). Add requirements if relevant. 
-description: ""
+description: "A gathering focused on the policy and funding landscape for RSEs. Participants will contribute to the Policy & Funding Working Group's strategy and shape advocacy priorities for the Society of RSE's future work.<br>The day includes a keynote, lightning talks (5-minute presentations on policy successes or challenges), and workshop sessions on stakeholder identification and policy evidence development.<br>Both in-person and virtual participation are available. Lightning talk submissions and bursary applications for travel support are welcome — see the <a href='https://lu.ma/0w6u5u47'>event page</a> for details."
    
 
 requirements: ""
